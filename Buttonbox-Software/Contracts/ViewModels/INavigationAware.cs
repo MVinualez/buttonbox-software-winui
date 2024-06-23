@@ -1,0 +1,8 @@
+﻿namespace Buttonbox_Software.Contracts.ViewModels;
+
+public interface INavigationAware
+{
+    void OnNavigatedTo(object parameter);
+
+    void OnNavigatedFrom();
+}

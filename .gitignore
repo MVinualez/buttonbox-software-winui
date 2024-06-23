@@ -1,0 +1,16 @@
+# Ignorer les fichiers binaires générés
+/MyApp/bin/
+/MyApp/obj/
+
+# Ignorer les packages NuGet téléchargés
+/packages/
+
+# Ignorer les fichiers de configuration de l'IDE Visual Studio
+.vs/
+*.csproj.user
+
+# Ignorer le fichier de configuration de l'application
+/MyApp/App.config
+
+# Ignorer la clé temporaire
+MyApp/MyApp_TemporaryKey.pfx

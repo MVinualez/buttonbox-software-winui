@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Buttonbox-Software (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Buttonbox-Software (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

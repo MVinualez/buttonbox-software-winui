@@ -1,0 +1,12 @@
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\bin\x86\Debug\net7.0\Buttonbox-Software.Core.deps.json
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\bin\x86\Debug\net7.0\Buttonbox-Software.Core.dll
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\bin\x86\Debug\net7.0\Buttonbox-Software.Core.pdb
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.csproj.AssemblyReference.cache
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.AssemblyInfoInputs.cache
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.AssemblyInfo.cs
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.csproj.CoreCompileInputs.cache
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.dll
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\refint\Buttonbox-Software.Core.dll
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\Buttonbox-Software.Core.pdb
+C:\Users\mattheo\source\repos\Buttonbox-Software\Buttonbox-Software.Core\obj\x86\Debug\net7.0\ref\Buttonbox-Software.Core.dll

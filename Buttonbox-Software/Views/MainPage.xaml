@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="Buttonbox_Software.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Padding="20">
+            <TextBlock Text="Arduino Uploader" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+            <TextBox x:Name="CodeTextBox" AcceptsReturn="True" Height="200" PlaceholderText="Enter your Arduino code here..." Margin="0,0,0,20"/>
+
+            <ComboBox x:Name="BoardComboBox" Header="Select Board" Margin="0,0,0,20">
+                <ComboBoxItem Content="arduino:avr:uno" IsSelected="True"/>
+                <ComboBoxItem Content="arduino:avr:promicro" />
+                <ComboBoxItem Content="esp32:esp32:esp32" />
+            </ComboBox>
+
+            <ComboBox x:Name="PortComboBox" Header="Select Port" Margin="0,0,0,20">
+                <!-- Ports will be dynamically added in the code-behind -->
+            </ComboBox>
+
+            <Button Content="Compile" Click="CompileButton_Click" Margin="0,0,0,10"/>
+            <Button Content="Upload" Click="UploadButton_Click" Margin="0,0,0,10"/>
+            <Button Content="Clear Logs" Click="ClearLogsButton_Click" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Logs" FontSize="18" FontWeight="SemiBold" Margin="0,0,0,10"/>
+
+            <ScrollViewer x:Name="LogsScrollViewer" Height="200" VerticalScrollBarVisibility="Auto">
+                <TextBox x:Name="LogsTextBox" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True"/>
+            </ScrollViewer>
+        </StackPanel>
+    </ScrollViewer>
+</Page>
